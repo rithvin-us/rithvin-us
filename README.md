@@ -44,7 +44,7 @@ I enjoy building practical software that solves real-world problems through clea
 
 ---
 
-## Areas of Interest
+## Focus Area
 
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"><br>**AI & Automation** | <img src="https://skillicons.dev/icons?i=python" width="40"><br>**Agentic AI** |
 |:---:|:---:|
