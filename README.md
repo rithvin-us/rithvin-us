@@ -44,27 +44,21 @@ I enjoy building practical software that solves real-world problems through clea
 
 ---
 
-## Interests
+## Areas of Interest
 
-- Backend Engineering
-- Software Architecture
-- Distributed Systems
-- Automation
-- Cloud Computing
-- Computer Vision
-- Robotics
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"><br>**AI & Automation** | <img src="https://skillicons.dev/icons?i=python" width="40"><br>**Agentic AI** |
+|:---:|:---:|
+| Building intelligent systems that automate repetitive tasks and improve developer productivity. | Exploring autonomous AI agents, tool use, memory, orchestration, and multi-agent workflows. |
 
----
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>**Backend Development** | <img src="https://skillicons.dev/icons?i=aws" width="40"><br>**Cloud Computing** |
+|:---:|:---:|
+| Designing scalable APIs, microservices, and backend architectures with reliability in mind. | Learning cloud-native applications, deployment, networking, containers, and infrastructure. |
 
-## Current Focus
-
-<table>
-<tr>
-
-<td width="68%" valign="top">
+| <img src="https://skillicons.dev/icons?i=python" width="40"><br>**Local LLMs & AI** | <img src="https://skillicons.dev/icons?i=docker" width="40"><br>**AI Workflows** |
+|:---:|:---:|
+| Experimenting with local language models, inference, RAG pipelines, and on-device AI. | Building end-to-end AI workflows using modern developer tools, automation, and orchestration platforms. |
 
 ---
-
 ## Current Focus
 
 <table width="100%">
@@ -87,13 +81,11 @@ I enjoy building practical software that solves real-world problems through clea
 
 <td width="28%" align="center" valign="middle">
 
-<img src="./assets/cat.png" width="230" alt="Coding Companion">
+<img src="./assets/cat.jpg" width="230" alt="Coding Companion">
 
 <br>
 
-**Coding Companion**
-
-<sub>Chief Quality Inspector</sub>
+**Chief Quality Inspector**
 
 </td>
 
@@ -110,15 +102,11 @@ I enjoy building practical software that solves real-world problems through clea
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://www.instagram.com/rithviiin/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:242234@psgitech.ac.in">
+<a href="mailto:rithvin1504@gmail.com">
 <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
