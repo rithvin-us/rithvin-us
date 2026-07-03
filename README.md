@@ -80,15 +80,15 @@ A curated collection of data structures, algorithms, and interview preparation r
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[https://www.linkedin.com/rithvin-us]">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="(https://www.instagram.com/rithviiin)">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rithvin1504@gmail.com">
 <img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
