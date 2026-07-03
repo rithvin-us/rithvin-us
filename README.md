@@ -1,20 +1,24 @@
 <p align="center">
-    <img src="./assets/banner.png" width="100%" alt="Rithvin Banner">
+  <img src="./assets/banner.png" width="100%" alt="Rithvin Banner"/>
 </p>
 
-<h1 align="center">Rithvin</h1>
+<h1 align="center"><b>RITHVIN</b></h1>
 
 <p align="center">
-Computer Science Undergraduate • Software Engineering • Systems & Automation
+<b>Computer Science Undergraduate</b> • Software Engineering • Systems & Automation
+</p>
+
+<p align="center">
+Building practical software with a focus on automation, backend engineering, and scalable systems.
 </p>
 
 ---
 
 ## About
 
-I am a Computer Science undergraduate at **PSG Institute of Technology and Applied Research (PSG iTech)** with a strong interest in software engineering, backend systems, automation, and intelligent applications.
+I am a Computer Science undergraduate at **PSG Institute of Technology and Applied Research (PSG iTech)** with a strong interest in software engineering, backend development, and automation.
 
-I enjoy designing software that solves practical problems while emphasizing clean architecture, maintainability, and performance. My projects span automation, developer tooling, web applications, and intelligent systems, with a focus on creating software that is both reliable and impactful.
+I enjoy building practical software that solves real-world problems through clean architecture, maintainable code, and thoughtful system design. My work spans developer tools, web applications, intelligent systems, and automation projects, with an emphasis on reliability and long-term scalability.
 
 ---
 
@@ -22,57 +26,79 @@ I enjoy designing software that solves practical problems while emphasizing clea
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,express,mysql,mongodb,firebase,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,express,mysql,mongodb,firebase,docker,git,github,linux,vscode&perline=9"/>
 
 </p>
 
 ---
 
-## Selected Projects
+## Featured Work
 
-### Payroll Automation
-
-Enterprise-grade Excel automation for payroll processing, validation, and reporting.
-
-### AI Workspace
-
-A knowledge management workspace integrating AI into everyday developer workflows.
-
-### Portfolio Website
-
-A personal portfolio showcasing projects, technical writing, and professional experience.
-
-### Hackathon Projects
-
-Software solutions developed during national-level hackathons and technical competitions.
-
-### Algorithms Repository
-
-A curated collection of data structures, algorithms, and interview preparation resources.
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **Payroll Automation** | Automated enterprise payroll processing and Excel workflow validation. | Python · Excel · OpenPyXL |
+| **Developer Workspace** | Personal knowledge management and AI-assisted productivity environment. | Python · Obsidian |
+| **Portfolio Website** | Personal portfolio showcasing projects, experience, and technical work. | React · Tailwind |
+| **Hackathon Projects** | Solutions developed for national-level hackathons across multiple domains. | Full Stack · AI |
+| **Algorithms Repository** | Curated implementations of data structures and algorithms. | C++ · Python |
 
 ---
 
-## Areas of Interest
+## Interests
 
-- Software Engineering
-- Backend Development
+- Backend Engineering
+- Software Architecture
 - Distributed Systems
 - Automation
 - Cloud Computing
-- System Design
 - Computer Vision
 - Robotics
 
 ---
 
-## Currently Exploring
+## Current Focus
 
-- Docker & Kubernetes
-- Cloud Infrastructure
-- Distributed Applications
-- Design Patterns
-- Modern Backend Architecture
-- ROS2
+<table>
+<tr>
+
+<td width="68%" valign="top">
+
+---
+
+## Current Focus
+
+<table width="100%">
+<tr>
+
+<td width="72%" valign="top">
+
+### Learning Roadmap
+
+| Domain | Current Focus | Status |
+|:-------|:--------------|:------:|
+| Docker | Containerization & Development Workflows | ███████░░░ |
+| Kubernetes | Container Orchestration Fundamentals | ███░░░░░░░ |
+| Cloud Infrastructure | Deployment, Networking & Cloud Services | ████░░░░░░ |
+| System Design | Scalable & Distributed Architecture | █████░░░░░ |
+| ROS2 | Robotics Middleware & Autonomous Systems | ██████░░░░ |
+| Backend Engineering | APIs, Databases & Distributed Systems | ███████░░░ |
+
+</td>
+
+<td width="28%" align="center" valign="middle">
+
+<img src="./assets/cat.png" width="230" alt="Coding Companion">
+
+<br>
+
+**Coding Companion**
+
+<sub>Chief Quality Inspector</sub>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -80,16 +106,20 @@ A curated collection of data structures, algorithms, and interview preparation r
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/rithvin-us]">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="(https://www.instagram.com/rithviiin)">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/rithviiin/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:rithvin1504@gmail.com">
-<img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="mailto:242234@psgitech.ac.in">
+<img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -98,8 +128,8 @@ A curated collection of data structures, algorithms, and interview preparation r
 
 <p align="center">
 
-*"The details are not the details. They make the design."*
+<i>"The details are not the details. They make the design."</i>
 
-**Charles Eames**
+<b>Charles Eames</b>
 
 </p>
