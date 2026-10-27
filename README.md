@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Rithvin Banner"/>
+  <img src="./assets/newb.jpeg" width="100%" alt="Rithvin Banner"/>
 </p>
 
 <h1 align="center"><b>RITHVIN</b></h1>
@@ -98,7 +98,7 @@ I enjoy building practical software that solves real-world problems through clea
 
 <p align="center">
 
-<a href="www.linkedin.com/in/rithvin-us/">
+<a href="https://www.linkedin.com/in/rithvin-us/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
