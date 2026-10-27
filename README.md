@@ -98,7 +98,7 @@ I enjoy building practical software that solves real-world problems through clea
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="www.linkedin.com/in/rithvin-us">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
